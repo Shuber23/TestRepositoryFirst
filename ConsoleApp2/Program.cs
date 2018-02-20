@@ -11,6 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("First comment(2)");
+            Console.WriteLine("Second comment(2)");
         }
     }
 }
