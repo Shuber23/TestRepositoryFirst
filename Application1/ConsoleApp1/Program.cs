@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("First comment");
             Console.WriteLine("Second comment");
             Console.WriteLine("Thirth comment");
+            Console.WriteLine("Fourth comment");
         }
     }
 }
