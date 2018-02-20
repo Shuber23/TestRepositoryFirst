@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("Second comment");
             Console.WriteLine("Thirth comment");
             Console.WriteLine("Fourth comment");
+            Console.ReadLine();
         }
     }
 }
